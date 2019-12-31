@@ -1,0 +1,9 @@
+name: LootBoxes
+version: v1.0
+main: me.davidrdc.lootboxes.LootBoxes
+author: David Rodriguez
+commands:
+  spawnLootBox:
+    description: Spawns a loot box where the player is currently standing.
+  giveKey:
+    description: Gives a key of a type specified to the player that executes the command.
