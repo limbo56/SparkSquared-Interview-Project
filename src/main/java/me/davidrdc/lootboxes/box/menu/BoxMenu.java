@@ -23,9 +23,9 @@ public class BoxMenu extends MenuHolder {
         .name("§eLoot Box")
         .lore(
             "",
-            "§7Loot boxes contain a variety of ",
-            "§7random cosmetics and give you a ",
-            "§7based on your luck",
+            "§7Loot boxes contain a variety of",
+            "§7random cosmetics and give you a",
+            "§7reward based on your luck",
             "",
             "§7Rarity: " + key.getType().getDisplayName(),
             "§7Multiplier: §f" + key.getType().getMultiplier(),
